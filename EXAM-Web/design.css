@@ -1,0 +1,46 @@
+/*
+FPIT1064 Web Development
+Mid Test 2
+
+Name: Lai Ching Yun
+Date: 8/4/2022
+*/
+body {
+    background-image: url('images/grey.jpg');
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+header {
+    background-color: #ADD8E6;
+    text-align: center;
+}
+h1 {
+    line-height: 150%;
+}
+nav {
+    font-weight: bold;
+    text-align: center;
+}
+nav a {
+    padding: 20px;
+}
+nav ul {
+    list-style-type: none;
+}
+nav li {
+    list-style: inline;
+}
+nav a:hover {
+    color: red;
+}
+img {
+    float: right;
+}
+footer {
+    background-color: #ADD8E6;
+    font-size: .60em;
+    text-align: center;
+    line-height: 200%;
+    font-weight: bold;
+}
